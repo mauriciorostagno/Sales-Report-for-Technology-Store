@@ -9,7 +9,7 @@ This project focuses on analyzing tweets related to the aviation industry using 
 
 
 ## Problem Statement
-Companies often face challenges in managing public sentiment, especially on social media platforms. This project aims to analyze the sentiments expressed in tweets about different airlines in U.S., providing insights into positive, neutral, and negative feedback. The key objectives include identifying trends in passenger opinions, visualizing sentiment distribution by airline, and pinpointing areas of improvement based on tweets content.
+Companies often face challenges in managing public sentiment, especially on social media platforms. This project tries to analyze the sentiments expressed in tweets about different airlines in U.S., providing insights into positive, neutral, and negative feedback. The key objectives include identifying trends in passenger opinions, visualizing sentiment distribution by airline, and pinpointing areas of improvement based on tweets content.
 
 
 
