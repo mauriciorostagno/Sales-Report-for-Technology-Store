@@ -1,5 +1,5 @@
 # Sentiment Analysis for Aviation Industry Tweets
-
+![](images/introduction.jpg)
 
 ---
 
