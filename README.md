@@ -36,8 +36,11 @@ Companies often face challenges in managing public sentiment, especially on soci
 
 ## Finding and Insights
 - **Sentiment Trends Across Airlines:** Some airlines exhibit significantly higher negative feedback, pointing to areas for operational improvement.
+  
 - **Activity Patterns:** Tweet activity peaks during common travel hours, indicating critical times for managing customer interactions.
+  
 - **Frequent Themes in Feedback:** Word clouds highlight common topics such as delays, service quality, and comfort, giving actionable insights.
+  
 - **Geographical Trends:** Sentiment clusters near major airport hubs highlight the impact of operational efficiency and issues with specific locations.
 
 
