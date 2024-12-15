@@ -20,13 +20,17 @@ Companies often face challenges in managing public sentiment, especially on soci
 ## Features
 1. **Random Tweet Display:**
    - Users can select a sentiment (positive, neutral, or negative) from the sidebar to view a random tweet matching the selected category.
+     
 2. **Sentiment Distribution Visualization:**
    - Displayed the number of tweets by sentiment using histograms and pie charts, with options to interchange between visualization types.
+     
 3. **Temporal and Geographic Analysis:**
    - Filtered tweets by the hour of the day to show user activity patterns.
    - Mapped tweet locations to identify geographical trends based on the time of day.
+     
 4. **Airline Sentiment Breakdown:**
    - Enabled users to select specific airlines and view sentiment distributions through interactive histograms.
+     
 5. **Word Cloud Generation:**
    - Created word clouds for positive, neutral, and negative sentiments, highlighting the most frequently used words.
 
