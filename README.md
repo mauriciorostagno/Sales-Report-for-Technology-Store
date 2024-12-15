@@ -19,10 +19,10 @@ Companies often face challenges in managing public sentiment, especially on soci
 
 ## Features
 1. **Random Tweet Display:**
-- Users can select a sentiment (positive, neutral, or negative) from the sidebar to view a random tweet matching the selected category.
+   - Users can select a sentiment (positive, neutral, or negative) from the sidebar to view a random tweet matching the selected category.
      
 2. **Sentiment Distribution Visualization:**
-- Displayed the number of tweets by sentiment using histograms and pie charts, with options to interchange between visualization types.
+   - Displayed the number of tweets by sentiment using histograms and pie charts, with options to interchange between visualization types.
      
 3. **Temporal and Geographic Analysis:**
    - Filtered tweets by the hour of the day to show user activity patterns.
