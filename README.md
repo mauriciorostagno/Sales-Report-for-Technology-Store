@@ -43,6 +43,19 @@ Companies often face challenges in managing public sentiment, especially on soci
   
 - **Geographical Trends:** Sentiment clusters near major airport hubs highlight the impact of operational efficiency and issues with specific locations.
 
+## Conclusion and Future Improvements
+The dashboard supports airlines in understanding and addressing customer concerns by visualizing sentiment trends.
+
+Future improvements could include:
+
+Incorporating additional data sources, such as customer reviews and ratings, for a more comprehensive sentiment analysis.
+
+Adding advanced NLP techniques, like topic modeling, to better understand underlying themes.
+
+Enhancing the dashboard with predictive analytics to forecast future sentiment trends.
+
+The interactive nature of the dashboard ensures accessibility and usability for stakeholders, making it a practical tool for improving customer satisfaction in the aviation industry.
+
 
 
 
