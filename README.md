@@ -19,7 +19,8 @@ Companies often face challenges in managing public sentiment, especially on soci
 
 ## Features
 An examples of some features detailed below is the next screenshot of the main dashboard screen.
-<img src="images/dashboard.png" alt="Dashboard" width="630"/>
+
+<img src="images/dashboard.png" alt="Dashboard" width="750"/>
 
 1. **Random Tweet Display:**
    - Users can select a sentiment (positive, neutral, or negative) from the sidebar to view a random tweet matching the selected category.
