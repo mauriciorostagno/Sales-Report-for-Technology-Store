@@ -43,11 +43,11 @@ An examples of some features detailed below is the next screenshot of the main d
 
 
 ## Finding and Insights
-- **Sentiment Trends Across Airlines:** Some airlines exhibit significantly higher negative feedback, pointing to areas for operational improvement.
+- **Sentiment Trends Across Airlines:** Airlines such as US Airways and American Airlines face the highest levels of negative feedback, pointing to delays, service quality, or comfort as major pain points. On the other hand, Virgin America, with only 35.91%, highlights operational efficiency and positive service experiences.
   
-- **Activity Patterns:** Tweet activity peaks during common travel hours, indicating critical times for managing customer interactions.
+- **Activity Patterns:** Tweet activity peaks during common travel hours, such as between 7am to 10am, indicating critical times for managing customer interactions.
   
-- **Frequent Themes in Feedback:** Word clouds highlight common topics such as delays, service quality, and comfort, giving actionable insights.
+- **Frequent Themes in Feedback:** Words like "hour," "delay," and "service" highlight frustration due to delays and inconsistent service quality. On the other hand, words such as "Plane," "time," "air hostess," and "service" suggest that efficient service and flight quality keeps customers very satisfied.
   
 - **Geographical Trends:** Sentiment clusters near major airport hubs highlight the impact of operational efficiency and issues with specific locations.
 
