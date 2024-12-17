@@ -37,6 +37,10 @@ An examples of some features detailed below is the next screenshot of the main d
      
 5. **Word Cloud Generation:**
    - Created word clouds for positive, neutral, and negative sentiments, highlighting the most frequently used words.
+     An example of the Word Cloud is the next image, showing negative sentiment for Southwest Airline.
+
+     <img src="images/negative-sentiment-example.png" alt="Negative Sentiment Example" width="630"/>
+
 
 ## Finding and Insights
 - **Sentiment Trends Across Airlines:** Some airlines exhibit significantly higher negative feedback, pointing to areas for operational improvement.
